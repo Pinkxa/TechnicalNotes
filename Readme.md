@@ -33,6 +33,8 @@ console.log("Hello World!");
 add more here...
 
 ### If things get to long...
+```javascript
+//how do I write if/else statement
 if(condition){
 return something;
 } else {
