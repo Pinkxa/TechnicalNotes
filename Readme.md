@@ -29,7 +29,7 @@ Notes on things I learned & snippets of code that will make my life easier
 console.log("Hello World!");
 ```
 
-### How to write If/Else statement
+### How to write if/else statement
 
 ```javascript
 //how do I write if/else statement
