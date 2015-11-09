@@ -29,17 +29,21 @@ Notes on things I learned & snippets of code that will make my life easier
 console.log("Hello World!");
 ```
 
+### How to write If/Else statement
+
+```javascript
+//how do I write if/else statement
+if(condition){
+      return something;
+} else {
+      return another thing;
+}
+```
+
 ### A note about something else
 add more here...
 
 ### If things get to long...
-```javascript
-//how do I write if/else statement
-if(condition){
-return something;
-} else {
-return another thing;
-}
 
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
