@@ -58,7 +58,7 @@ describe("In the ferry kata", function(){
 	});
 });
 ```
-Then to the terminal you get into the project folder that contains your test folder, test file and a function and you run mocha, this test will pass.
+Then to the terminal you get into the project folder that contains your test folder, test file and a function and you run 'mocha', this test will pass.
 
 Here is another example of a failing test:
 
