@@ -40,6 +40,43 @@ if(condition){
 }
 ```
 
+### How to test with mocha
+In my project folder I create a test folder and create a test.js file inside the test folder.
+
+Here is an example of test:
+
+```javascript
+//how do I write a test using mocha
+var assert = require("assert");
+
+describe("In the ferry kata", function(){
+	it("I should be able to create a car", function(){
+	      //Assemble
+      	//Act
+	      //Assert
+	   assert.equal("car", "car");
+	});
+});
+```
+Then to the terminal you get into the project folder that contains your test folder, test file and a function and you run mocha, this test will pass.
+
+Here is another example of a failing test:
+
+```javascript
+//a mocha failing test
+var assert = require("assert");
+
+      describe("In the ferry kata", function(){
+      it(" I should be able to create cars", function(){
+            //Assemble
+            //Act
+            //Assert
+         assert.equal("car", "cars");
+      });
+});
+```
+When you run this test the same way as the first one, it will fail.
+
 ### A note about something else
 add more here...
 
