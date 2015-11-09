@@ -1,4 +1,4 @@
-# My Technical Notes
+# Pretty's Technical Notes
 
 ## Workshops
 
