@@ -7,6 +7,8 @@
 * Useful algoritms using functions (lodash)
 * How does a web application work?
 * Others?
+* How to create a method
+* The better way of seeing the expected results
 
 ## Keep updated
 
