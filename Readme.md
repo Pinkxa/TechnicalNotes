@@ -26,12 +26,18 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ```javascript
 // how do I print to the console again?
+console.log("Hello World!");
 ```
 
 ### A note about something else
 add more here...
 
 ### If things get to long...
+if(condition){
+return something;
+} else {
+return another thing;
+}
 
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
